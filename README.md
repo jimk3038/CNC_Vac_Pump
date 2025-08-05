@@ -1,5 +1,4 @@
-# CNC_Vac_Pump
-CNC Vacuum Pump Controller
+# CNC Vacuum Pump Controller
 
 This repo goes along with the following YouTube video:
 https://youtu.be/Fw-1sRhIoUw
